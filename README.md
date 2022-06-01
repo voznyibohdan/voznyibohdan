@@ -1,4 +1,4 @@
-### Hey there <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Hey there <img width="25px" height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 <a href="https://www.linkedin.com/in/bohdan-voznyi-893731219/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
