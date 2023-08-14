@@ -1,4 +1,4 @@
-**Hi, I'm Bohdan Voznyi, React engineer from Lviv, Ukraine 🇺🇦**
+**Hi, I'm Bohdan Voznyi, Software engineer from Lviv, Ukraine 🇺🇦**
 
 <a href="https://www.linkedin.com/in/bohdanvoznyi/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
