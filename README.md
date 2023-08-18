@@ -20,6 +20,7 @@
 
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Webstorm" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" style="padding-right:10px;" />
+<img align="left" alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="32px" src="https://img.icons8.com/?size=512&id=44442&format=png" style="padding-right:10px;" />
